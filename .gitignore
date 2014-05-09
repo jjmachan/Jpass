@@ -4,3 +4,4 @@ bin/
 .project
 *.swp
 src/com/jjp/passwd/.ropeproject/
+src/com/jjp/passwd/hashfile
