@@ -3,3 +3,4 @@ bin/
 .settings/
 .project
 *.swp
+src/com/jjp/passwd/.ropeproject/
